@@ -1,2 +1,2 @@
-FROM nginx/nginx:1.15.12
+FROM nginx:1.15.12
 MAINTAINER Q
