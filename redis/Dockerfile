@@ -1,2 +1,2 @@
-FROM redis:5.0.4
+FROM redis:6.2.12
 MAINTAINER Q
